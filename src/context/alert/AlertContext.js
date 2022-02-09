@@ -1,5 +1,4 @@
 import { createContext, useReducer } from 'react'
-import { FaMapSigns } from 'react-icons/fa';
 import alertReducer from './AlertReducer'
 
 const AlertContext = createContext()
